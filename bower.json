@@ -1,0 +1,29 @@
+{
+    "name": "js-lib-url",
+    "version": "1.0.0",
+    "authors": [
+        "Vasilij Belosludcev <bupy765@gmail.com>"
+    ],
+    "description": "The methods for works with an URL.",
+    "main": [
+        "src/*.js",
+        "dist/*.js"
+    ],
+    "keywords": [
+        "js",
+        "library",
+        "url",
+        "javascript",
+        "uri",
+        "urn",
+        "parser",
+        "encode"
+    ],
+    "license": "BSD 3-Clause",
+    "homepage": "https://github.com/bupy7/js-lib-url",
+    "ignore": [
+        ".*",
+        "*.md",
+        "/scripts"
+    ]
+}
