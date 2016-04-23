@@ -6,8 +6,8 @@
     ],
     "description": "The methods for works with an URL.",
     "main": [
-        "src/*.js",
-        "dist/*.js"
+        "/src/*.js",
+        "/dist/*.js"
     ],
     "keywords": [
         "js",
@@ -24,6 +24,6 @@
     "ignore": [
         ".*",
         "*.md",
-        "/scripts"
+        "/build"
     ]
 }
