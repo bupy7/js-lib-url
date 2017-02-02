@@ -21,10 +21,10 @@ var Url = (function() {
             var uri = arguments[0];
             for (var i = 1; i != arguments.length; i++) {
                 if (uri.indexOf('http') === 0 || uri.indexOf('/') === 0) {
-                    if (uri.indexOf('?') < 0) {
+                    if (uri.indexOf('?') === -1) {
                         uri += '?' + arguments[i];
                     } else {
-                        uri += arguments[i];
+                        uri += '&' + arguments[i];
                     }
                 } else {
                    uri += '&' + arguments[i];
