@@ -6,10 +6,16 @@ The methods for works with an URL.
 Install
 -------
 
-**Install via the Bower:**
+**Using Bower:**
 
 ```
-bower install js-lib-url#1.0.*
+bower install js-lib-url
+```
+
+**Using NPM:**
+
+```
+npm install js-lib-url
 ```
 
 Usage
