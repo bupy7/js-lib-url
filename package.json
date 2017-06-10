@@ -1,0 +1,26 @@
+{
+      "name": "js-lib-url",
+      "version": "1.1.1",
+      "description": "The methods for works with an URL.",
+      "main": "dist/url.min.js",
+      "repository": {
+            "type": "git",
+            "url": "https://github.com/bupy7/js-lib-url.git"
+      },
+      "keywords": [
+            "js",
+            "library",
+            "url",
+            "javascript",
+            "uri",
+            "urn",
+            "parser",
+            "encode"
+      ],
+      "author": "Belosludcev Vasily <bupy765@gmail.com>",
+      "license": "BSD-3-Clause",
+      "bugs": {
+            "url": "https://github.com/bupy7/js-lib-url/issues"
+      },
+      "homepage": "https://github.com/bupy7/js-lib-url"
+}
